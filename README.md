@@ -9,6 +9,8 @@ It explores delay causes, airline performance, and airport congestion, providing
 - Interactive Dashboards with Plotly: Dynamic charts to explore airline and airport performance.
 
 ## Dataset Source
+This project uses the 2015 Flight Delays and Cancellations dataset from the US Department of Transportation.
+Due to GitHub’s 100 MB file limit, the dataset is not stored in this repository.
 - [US DOT 2015 Flight Delays and Cancellations (Kaggle)](https://www.kaggle.com/datasets/usdot/flight-delays)
 
 ## Tech Stack
